@@ -1,0 +1,12 @@
+Bu web sitesini geliştirirken hem Backend hem de Frontend tarafında çalışmalar yaptım. Bu proje, özellikle Backend geliştirme ve Python konularında ilerlememe büyük katkı sağladı.
+
+Proje Detayları
+Dosya Yapısı: Proje dosyaları arasında yalnızca 3 adet JPEG formatında görsel bulunmaktadır.
+* Eklemek istediğiniz görselleri, sadece img klasörüne yüklemeniz yeterlidir.
+
+Kullandığım Teknolojiler
+Backend: Python, Django
+Frontend: Bootstrap
+Veritabanı: SQLite3
+
+Bu projeyi oluştururken, Sadık Turan hocamın Django eğitim videolarından faydalandım.
